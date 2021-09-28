@@ -7,4 +7,8 @@ Frontend Web Development patikasında HTML bölümünün 4. ödevi için açmı�
 
 - Bazı renklendirme ve konumlandırma özelliklerini ise body içerisinde belirledim. 
 
+- Section, Article, Footer gibi Semantic(Anlamlandırılmış) HTML Etiketleri kullandım.
+
+
+
 
